@@ -1,0 +1,6 @@
+http://www.ros.org/news/2014/12/ardrone-autonomous-indoor-navigation-by-3d-slam.html
+https://github.com/jim1993/Ardrone_indoor_slam
+
+https://github.com/AutonomyLab/ardrone_autonomy
+
+http://mavlab.tudelft.nl/tu-delft-first-autonomous-drone-race/
