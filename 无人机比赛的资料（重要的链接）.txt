@@ -4,3 +4,5 @@ https://github.com/jim1993/Ardrone_indoor_slam
 https://github.com/AutonomyLab/ardrone_autonomy
 
 http://mavlab.tudelft.nl/tu-delft-first-autonomous-drone-race/
+
+https://github.com/Vision4UAV/cvg_ardrone2_ibvs
