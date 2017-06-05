@@ -8,3 +8,5 @@ http://mavlab.tudelft.nl/tu-delft-first-autonomous-drone-race/
 https://github.com/Vision4UAV/cvg_ardrone2_ibvs
 
 https://github.com/HKUST-Aerial-Robotics/VINS-Mono
+
+https://github.com/bushuhui/ardrone_auto
