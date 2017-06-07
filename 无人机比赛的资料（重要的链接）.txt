@@ -12,3 +12,5 @@ https://github.com/HKUST-Aerial-Robotics/VINS-Mono
 https://github.com/bushuhui/ardrone_auto
 
 https://github.com/yamunamaccarana/unibg_ardrone
+
+https://github.com/warp1337/ros_aruco
