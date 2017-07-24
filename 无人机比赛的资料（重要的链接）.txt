@@ -18,3 +18,8 @@ https://github.com/warp1337/ros_aruco
 https://github.com/ThundeRatz/ros_yolo2
 
 https://github.com/AutonomyLab
+
+
+DJI M100:
+        APP ID:    1044132
+        App Key:   c6e9959875a6bba94ef7ddf7720a8ff91c7daca74a67a432ad26847031a6786c
