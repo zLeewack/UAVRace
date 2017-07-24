@@ -16,3 +16,5 @@ https://github.com/yamunamaccarana/unibg_ardrone
 https://github.com/warp1337/ros_aruco
 
 https://github.com/ThundeRatz/ros_yolo2
+
+https://github.com/AutonomyLab
