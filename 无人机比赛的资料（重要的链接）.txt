@@ -19,6 +19,8 @@ https://github.com/ThundeRatz/ros_yolo2
 
 https://github.com/AutonomyLab
 
+https://github.com/willdzeng/zed_cpu_ros
+
 
 DJI M100:
         APP ID:    1044132
