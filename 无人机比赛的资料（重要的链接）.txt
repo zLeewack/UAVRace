@@ -21,6 +21,8 @@ https://github.com/AutonomyLab
 
 https://github.com/willdzeng/zed_cpu_ros
 
+https://github.com/babyformula/LSD-SLAM-with-PerceptIn-stereo-camera
+
 
 DJI M100:
         APP ID:    1044132
