@@ -23,6 +23,7 @@ https://github.com/willdzeng/zed_cpu_ros
 
 https://github.com/babyformula/LSD-SLAM-with-PerceptIn-stereo-camera
 
+http://wiki.ros.org/rtabmap_ros
 
 DJI M100:
         APP ID:    1044132
